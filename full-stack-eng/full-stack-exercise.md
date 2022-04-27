@@ -45,6 +45,7 @@ Goals:
 
 
 Please consider the following when designing and implementing the the backend of MySMS Messenger:
+
 - Design of the endpoints, and their HTTP types and naming convention
 
 - Persistency of the data, including the selection of the DB and its schema
