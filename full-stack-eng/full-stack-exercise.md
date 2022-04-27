@@ -12,6 +12,7 @@ This part of the exercise focuses on bootstrapping a FE project from scratch.
 
 
 Goals:
+
 - Examining the candidate's practical know-how with a modern FE framework.
 
 - Examining the candidate's ability to understand a task, scope and plan its execution.
@@ -22,13 +23,11 @@ Goals:
 ### MySMS Messenger Wireframe
 ![picture alt](https://s3.us-west-2.amazonaws.com/assets.cityhive.net/MySMS-Messenger/mysmsmessengerwireframe.png "MySMS Messenger Wireframe")
 
-Sending an SMS can be done troughCity Hive's [Twilio](https://twilio.com/ "Twilio") account.<br />
-SID and Token will be provided separately.
+Sending an SMS can be done trough [Twilio](https://twilio.com/ "Twilio") using the following credentials and from the number: +19379303768.<br />
 
 ```
 TWILIO_ACCOUNT_SID=ACc6a2b540bb0a1af990fadd7c76e2892d
 TWILIO_AUTH_TOKEN=152a695671076faede61bb4a6849b83b
-From number: ++19379303768
 ```
 
 ## Section 2/3: Backend (Home Exercise)
@@ -37,6 +36,7 @@ From number: ++19379303768
 In this part of the exercise, you are requested to develop the backend of MySMS Messenger.
 
 Goals:
+
 - Examining the candidate's practical know-how with a modern BE framework.
 
 - Examining the candidate's ability to design a full stack app based on a wireframe mockup.
