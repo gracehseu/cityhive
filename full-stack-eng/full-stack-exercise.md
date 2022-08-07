@@ -23,12 +23,8 @@ Goals:
 ### MySMS Messenger Wireframe
 ![picture alt](https://s3.us-west-2.amazonaws.com/assets.cityhive.net/MySMS-Messenger/mysmsmessengerwireframe.png "MySMS Messenger Wireframe")
 
-Sending an SMS can be done trough [Twilio](https://twilio.com/ "Twilio") using the following credentials and from the number: +19379303768.<br />
+Sending an SMS can be done trough [Twilio](https://twilio.com/ "Twilio") free account.<br />
 
-```
-TWILIO_ACCOUNT_SID=ACc6a2b540bb0a1af990fadd7c76e2892d
-TWILIO_AUTH_TOKEN=152a695671076faede61bb4a6849b83b
-```
 
 ## Section 2/3: Backend (Home Exercise)
 **Time Estimated: <2h**
