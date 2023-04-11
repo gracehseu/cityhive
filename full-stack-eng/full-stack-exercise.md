@@ -7,13 +7,13 @@ The frontend of the app should be written in **Angular**'s latest stable version
 The backend (API) of the app should be written in **Ruby on Rails** with a database of your choice.
 
 
-### MySMS Messenger Wireframe
+## MySMS Messenger Wireframe
 ![picture alt](https://s3.us-west-2.amazonaws.com/assets.cityhive.net/MySMS-Messenger/mysmsmessengerwireframe.png "MySMS Messenger Wireframe")
 
 Sending an SMS should be done through [Twilio](https://twilio.com/ "Twilio") API with a free account you've opened on your own.  
 
 
-### Functionality that we'd like the app to have:
+## Functionality that we'd like the app to have:
 
 1. Basic authentication - if you're not already logged in the app should ask you to login/create an account by providing a user name and password.
 2. Once you're authenticated, you should see the messages you've sent previously and have the ability to send new messages.
